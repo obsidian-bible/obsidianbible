@@ -1,5 +1,5 @@
 # obsidianbible
-Pismo Święte w plikach Mardown .md do pomocy w czytaniu/rozważaniu Słowa Bożego w konteście nauki KK.
+Pismo Święte w plikach Mardown .md do pomocy w czytaniu/rozważaniu Słowa Bożego w kontekście nauki KK.
 
 Przykładowy rozdział:
 https://www.youtube.com/watch?v=D_kRE9mfDHA
