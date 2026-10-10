@@ -34,7 +34,7 @@ Biblia.md
 - De imitatione Christi -> pierwsza księga ukończona, w miarę czytania będą aktualizowane następne księgi
 - Denziger -> narazie jedynie kilka punktów, w miarę czytania będą aktualizowane pozostałe - przydatne do Katechizmu Kościoła Katolickiego - patrz poniżej
 - Didache -> w miarę czasu będą linki do biblii uzupełniane
-- Summa -> narazie próba dodania Tomu pierwszego
+- Summa -> w trakcie formatowania i strukturyzowania
 
 **SOBORY** zawiera obecnie jedynie dokumenty Soboru Watykańskiego II, linki do Biblii niekompletne - w miarę czytania będę aktualizował
 
@@ -48,6 +48,7 @@ Biblia.md
 - obsidian-bible-linker
 - obsidian-footnotes
 - obsidian-linter
+- bible-fragment-linker -> ten utworzyłem sam, na potrzeby projektu, zawiera funkcjonalność dodawania linków do pojedynczych wersetów jak i fragmentów, w przypadku nieistniejącego fragmentu, zostanie dodany fragment do Bible_notes/Bible_Fragments/
 
 ## Uwagi do obsidiana
 Po dodaniu plików słownikowych stronga, nie zalecam uruchamiania widoku grafu, chyba, że na szybkim nowym komputerze, w przeciwnym razie obsidian może się mocno przyciąć. Również nie zalecam rozwijania widoku katalogu Strong. Zawiera on prawie 5,500 plików, co w przypadku Nowego Testamentu, robi liczbę linków równą liczbie słów.
